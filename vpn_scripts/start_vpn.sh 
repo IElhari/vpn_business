@@ -1,0 +1,4 @@
+# start VPN service
+
+sudo systemctl start openvpn@server
+sudo systemctl enable openvpn@server
